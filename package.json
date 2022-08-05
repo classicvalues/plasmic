@@ -11,15 +11,15 @@
     "start": "npm run build:examples && http-server ./client"
   },
   "dependencies": {
-    "react": "16.6.1",
+    "react": "18.2.0",
     "typescript": "3.1.6",
-    "@types/react": "16.7.2"
+    "@types/react": "18.0.15"
   },
   "devDependencies": {
     "@types/react-dom": "16.0.9",
     "awesome-typescript-loader": "3.1.2",
     "http-server": "0.11.1",
-    "react-dom": "16.6.0",
+    "react-dom": "18.2.0",
     "source-map-loader": "0.2.1",
     "webpack": "4.25.1",
     "webpack-cli": "^3.1.2"
